@@ -3,7 +3,7 @@
 ```
 Python-Core-Libraries/
 ├── README.md                          # 学习路线图索引
-├── 00-Environment-Setup/              # 环境配置
+├── 00-Python-Fundamentals/              # Python基础语法
 ├── 01-NumPy/                          # NumPy学习笔记
 │   ├── 01-Basic-Operations.md         # 基础语法与数组操作
 │   ├── 02-Statistical-Operations.md   # 统计运算与随机数
